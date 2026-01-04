@@ -2,6 +2,8 @@
 
 A lightweight, open-source external for Roblox. THIS IS NOT RATTED CHECK THE SOURCE AND FIND STRINGS if you want.
 
+https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
+
 ---
 
 # Http Request / Downloads from the External
