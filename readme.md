@@ -8,7 +8,7 @@ https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
 
 # Http Request / Downloads from the External
 
-**IT WILL DOWNLOAD ASSETS FROM ONLY THIS GITHUB REPO**, THIS IS THE ONLY THING THAT DOWNLOADS.(You can delete them if you want.) It will fetch offest by robloxoffsets.com / offsets.ntgetwritewatch.workers.dev
+**IT WILL DOWNLOAD ASSETS FROM ONLY THIS GITHUB REPO**, THIS IS THE ONLY THING THAT DOWNLOADS.(You can delete them if you want.) It will fetch offsets from robloxoffsets.com / offsets.ntgetwritewatch.workers.dev
 
 ---
 
