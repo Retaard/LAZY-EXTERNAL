@@ -1,6 +1,6 @@
 #  LAZY External
 
-A lightweight, open-source external for Roblox. 
+A lightweight, open-source external for Roblox. THIS IS NOT RATTED CHECK THE SOURCE AND FIND STRINGS if you want.
 
 ---
 
