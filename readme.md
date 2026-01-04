@@ -4,6 +4,12 @@ A lightweight, open-source external for Roblox. THIS IS NOT RATTED CHECK THE SOU
 
 ---
 
+# Http Request / Downloads from the External
+
+**IT WILL DOWNLOAD ASSETS FROM ONLY THIS GITHUB REPO**, THIS IS THE ONLY THING THAT DOWNLOADS.(You can delete them if you want.) It will fetch offest by robloxoffsets.com / offsets.ntgetwritewatch.workers.dev
+
+---
+
 ## Info
 
 **LAZY External** is just a joke
@@ -23,7 +29,7 @@ This JOKE OF A SHIT EXTERNAL is provided **AS-IS** and **FOR EDUCATIONAL PURPOSE
 -  Do not blame me, or I am **not responsible** for people ratting this source or breaking your computer  
 -  No guarantees of safety, stability, or sanity  
 -  AI Code. It's called Lazy External >:)
--  **IT WILL DOWNLOAD ASSETS FROM THIS GITHUB REPO**, THIS IS THE ONLY THING THAT DOWNLOADS.(you can delete them if you want.*)
+
 
 
 **Use at your own risk. Seriously.**
