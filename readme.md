@@ -11,6 +11,7 @@ A lightweight, open-source external for Roblox. THIS IS NOT RATTED CHECK THE SOU
 - Its a skidded source called **Pentium** the origin was by **Valora**
 - I'm just doing this to import other modules / Features from other external.
 - Shit UI. NEVER LIKED IT and will never change it.
+- HELLA BLOATED, has Useless features.
 
 ---
 
