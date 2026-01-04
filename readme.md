@@ -1,4 +1,4 @@
-#  LAZY External
+#  LAZY External - **Use at your own risk. Seriously.**
 
 A lightweight, open-source external for Roblox. THIS IS NOT RATTED CHECK THE SOURCE AND FIND STRINGS if you want.
 
@@ -30,6 +30,13 @@ This JOKE OF A SHIT EXTERNAL is provided **AS-IS** and **FOR EDUCATIONAL PURPOSE
 -  No guarantees of safety, stability, or sanity  
 -  AI Code. It's called Lazy External >:)
 
+## Screenshots
+
+- OLD
+<img width="600" height="552" alt="image" src="https://github.com/user-attachments/assets/1b4c0533-7af9-4966-9a5d-1327f5578181" />
+
+- New
+<img width="1021" height="552" alt="image" src="https://github.com/user-attachments/assets/515698b4-790d-48ad-9bac-6cdd78ac5d39" />
 
 
-**Use at your own risk. Seriously.**
+
