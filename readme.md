@@ -23,7 +23,7 @@ This JOKE OF A SHIT EXTERNAL is provided **AS-IS** and **FOR EDUCATIONAL PURPOSE
 -  Do not blame me, or I am **not responsible** for people ratting this source or breaking your computer  
 -  No guarantees of safety, stability, or sanity  
 -  AI Code. It's called Lazy External >:)
--  IT WILL DOWNLOAD ASSETS FROM THIS GITHUB REPO, THIS IS THE ONLY THING THAT DOWNLOADS.
+-  **IT WILL DOWNLOAD ASSETS FROM THIS GITHUB REPO**, THIS IS THE ONLY THING THAT DOWNLOADS.(you can delete them if you want.*)
 
 
 **Use at your own risk. Seriously.**
