@@ -4,7 +4,7 @@ A lightweight, open-source external for Roblox. THIS IS NOT RATTED CHECK THE SOU
 
 ---
 
-## About
+## Info
 
 **LAZY External** is just a joke
 
@@ -12,6 +12,7 @@ A lightweight, open-source external for Roblox. THIS IS NOT RATTED CHECK THE SOU
 - I'm just doing this to import other modules / Features from other external.
 - Shit UI. NEVER LIKED IT and will never change it.
 - HELLA BLOATED, has Useless features.
+
 
 ---
 
@@ -22,5 +23,7 @@ This JOKE OF A SHIT EXTERNAL is provided **AS-IS** and **FOR EDUCATIONAL PURPOSE
 -  Do not blame me, or I am **not responsible** for people ratting this source or breaking your computer  
 -  No guarantees of safety, stability, or sanity  
 -  AI Code. It's called Lazy External >:)
+-  IT WILL DOWNLOAD ASSETS FROM THIS GITHUB REPO, THIS IS THE ONLY THING THAT DOWNLOADS.
+
 
 **Use at your own risk. Seriously.**
