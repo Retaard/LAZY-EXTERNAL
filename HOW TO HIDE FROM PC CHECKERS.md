@@ -1,4 +1,4 @@
-## Guide (not completed)
+## Guide (WIll be maintained)
 
 - Registry keys have history for exes. NO KIDDING, THERE'S A LOT OF REGISTRY TO DELETE(Will implement it in the external)
 - Prefetch
