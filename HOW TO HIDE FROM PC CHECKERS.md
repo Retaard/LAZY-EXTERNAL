@@ -25,7 +25,7 @@
 # FOLDERS
 
 1. C:\windows\Prefetch
-
+2. C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent -- just delete something relating to cheating
 --
 
 
