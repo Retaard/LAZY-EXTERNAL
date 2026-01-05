@@ -5,7 +5,7 @@
 - I like to hide my externals in C:\windows\setup\files and configs C:\Windows\Setup\State has to be .ini
 - Dont use a antivirus. WHY?? because of the exclusion or the cheat it self causing to false postive. Just two windows boot one for  main use and the other for gaming(CHEATING) use gpedit.msc to Hide these specified drives like the main boot
 ---
-# Registry keys to delete(NOT DELETE THE WHOLE JUST THE HISTORY OF THE CHEAT)
+# Registry keys that hold history of exes (NOT DELETE THE WHOLE JUST THE HISTORY OF THE CHEAT)
 1. HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
 2. Computer\HKEY_CURRENT_USER\Software\Classes\Local Settings\MrtCache
 3. Computer\HKEY_CURRENT_USER\Software\Classes\Local Settings\MuiCache
