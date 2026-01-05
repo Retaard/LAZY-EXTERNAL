@@ -1,6 +1,8 @@
 #  LAZY External - **Use at your own risk. Seriously.**
 
-A lightweight, open-source external for Roblox. THIS IS NOT RATTED CHECK THE SOURCE AND FIND STRINGS if you want.
+A open-source external for Roblox. Undetectable for PC checker(Not-yet) 
+
+Latest builds are in the lazy website
 
 https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
 
@@ -20,6 +22,7 @@ https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
 - I'm just doing this to import other modules / Features from other external.
 - Shit UI. NEVER LIKED IT and will never change it.
 - HELLA BLOATED, has Useless features.
+- THIS IS NOT RATTED CHECK THE SOURCE AND FIND STRINGS if you want.
 
 
 ---
@@ -31,6 +34,8 @@ This JOKE OF A SHIT EXTERNAL is provided **AS-IS** and **FOR EDUCATIONAL PURPOSE
 -  Do not blame me, or I am **not responsible** for people ratting this source or breaking your computer  
 -  No guarantees of safety, stability, or sanity  
 -  AI Code. It's called Lazy External >:)
+
+--
 
 ## Screenshots
 
