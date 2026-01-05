@@ -4,7 +4,7 @@ A open-source external for Roblox. Undetectable for PC checker(Not-yet)
 
 Latest builds are in the lazy website - [LAZY MAIN](https://lazy.jsx.pm) [DISCORD MIRROR](https://discord.jsx.pm)  [7-zip MIRROR](7-zip.env.pm) **I WILL ADD A FAKE 7zip and discord installer** to hide the external not a [BINDER](https://en.wikipedia.org/wiki/File_binder) 
 
-https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
+[LAZY EXTERNAL SOURCE DOWNLOAD](https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External)
 
 ---
 
