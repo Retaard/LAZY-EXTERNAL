@@ -8,7 +8,7 @@ https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
 
 ---
 
-#  [EASY GUIDE HIDE FROM PC CHECKERS](HOW TO HIDE FROM PC CHECKERS.md)
+#  [EASY GUIDE HIDE FROM PC CHECKERS](https://github.com/Retaard/LAZY-EXTERNAL/blob/main/HOW%20TO%20HIDE%20FROM%20PC%20CHECKERS.md)
 
 # Http Request / Downloads from the External
 
