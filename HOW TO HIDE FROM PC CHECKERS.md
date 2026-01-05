@@ -3,6 +3,7 @@
 - Registry keys have history for exes. NO KIDDING, THERE'S A LOT OF REGISTRY TO DELETE(Will implement it in the external)
 - Prefetch
 - I like to hide my externals in C:\windows\setup\files and configs C:\Windows\Setup\State has to be .ini
+- Dont use a antivirus. WHY?? because of the exclusion or the cheat it self causing to false postive. Just two windows boot one for  main use and the other for gaming(CHEATING) use gpedit.msc to Hide these specified drives like the main boot
 ---
 # Registry keys to delete
 1. HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
@@ -20,13 +21,16 @@
 13. Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\dam --  just Dam but different its just because of your os being custom
 14. Computer\HKEY_CURRENT_USER\Control Panel\NotifyIconSettings -- This stores system tray (notification area) icon history. 
 
---
+
 
 # FOLDERS
 
 1. C:\windows\Prefetch
-2. C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent -- just delete something relating to cheating
---
+2. C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Recent -- just delete something relating to cheating
+3. C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+4. C:\Users\USERNAME\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations
+5. C:\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex
+
 
 
 
