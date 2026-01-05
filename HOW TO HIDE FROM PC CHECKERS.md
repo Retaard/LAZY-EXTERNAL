@@ -8,9 +8,11 @@
 1. HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
 2. Computer\HKEY_CURRENT_USER\Software\Classes\Local Settings\MrtCache
 3. Computer\HKEY_CURRENT_USER\Software\Classes\Local Settings\MuiCache
-4. Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+4. Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store -- When I found this, I managed to delete A Rat in my computer
 5. Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers -- Program execution flags/ RUNASADMIN Compatibility shims on unknown EXEs
 6. Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted
+7. Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\RADAR\HeapLeakDetection\DiagnosedApplications 
+8. 
 
 --
 
