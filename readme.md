@@ -16,12 +16,13 @@ https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
 
 ## Info
 
-**LAZY External** is just a joke
+**LAZY External** is just a joke 
 
 - Its a skidded source called **Pentium** the origin was by **Valora**
 - I'm just doing this to import other modules / Features from other external.
 - Shit UI. NEVER LIKED IT and will never change it.
-- HELLA BLOATED, has Useless features.
+- HELLA BLOATED has Useless features.
+- It's supposed to be undetectable for pc checkers
 - THIS IS NOT RATTED CHECK THE SOURCE AND FIND STRINGS if you want.
 
 
