@@ -8,7 +8,7 @@ https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
 
 ---
 
-#  [GUIDE TO REMOVE TRACES PC FROM CHECKERS](https://github.com/Retaard/LAZY-EXTERNAL/blob/main/HOW%20TO%20HIDE%20FROM%20PC%20CHECKERS.md](https://github.com/Retaard/LAZY-EXTERNAL/wiki/Guide)
+#  [GUIDE TO REMOVE TRACES PC FROM CHECKERS](https://github.com/Retaard/LAZY-EXTERNAL/wiki/Guide)
 
 # Http Request / Downloads from the External
 
