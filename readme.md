@@ -12,7 +12,7 @@ https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
 
 **IT WILL DOWNLOAD ASSETS FROM ONLY THIS GITHUB REPO**, THIS IS THE ONLY THING THAT DOWNLOADS.(You can delete them if you want.) It will fetch offsets from robloxoffsets.com / offsets.ntgetwritewatch.workers.dev
 
----
+--
 
 ## Info
 
@@ -26,7 +26,7 @@ https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External
 - THIS IS NOT RATTED CHECK THE SOURCE AND FIND STRINGS if you want.
 
 
----
+--
 
 ## Disclaimer
 
