@@ -14,7 +14,7 @@ Latest builds are in the lazy website - [LAZY MAIN](https://lazy.jsx.pm) [7-zip 
 
 **IT WILL DOWNLOAD ASSETS FROM ONLY THIS GITHUB REPO**, THIS IS THE ONLY THING THAT DOWNLOADS.(You can delete them if you want.) It will fetch offsets from robloxoffsets.com / offsets.ntgetwritewatch.workers.dev
 
---
+
 
 ## Info
 
@@ -29,7 +29,7 @@ Latest builds are in the lazy website - [LAZY MAIN](https://lazy.jsx.pm) [7-zip 
 - AI Code. It's called Lazy External >:)
 
 
---
+
 
 ## Disclaimer
 
@@ -40,7 +40,7 @@ This JOKE OF A SHIT EXTERNAL is provided **AS-IS** and **FOR EDUCATIONAL PURPOSE
 
 
 
-Soon I just change imgui
+## Soon I'll just change imgui
 ![agkk1y](https://github.com/user-attachments/assets/9739cc6e-7df6-4dce-9520-90daacab6190)
 
 
