@@ -1,4 +1,4 @@
-#  LAZY External - **Use at your own risk. Seriously.**
+#  LAZY External Source(**OUTDATED**) - **Use at your own risk. Seriously.**
 
 A open-source external for Roblox. Undetectable for PC checker(Not-yet) 
 
