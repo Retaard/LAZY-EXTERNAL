@@ -3,7 +3,7 @@
 A open-source external for Roblox. Undetectable for PC checker(Not-yet) 
 [LAZY website](https://lazy.jsx.pm)
 
-Latest builds are in the lazy website -> [FAKE ADS REDIRECT MIRROR](7-zip.env.pm) [A FAKE DISCORD WEBSITE MIRROR](https://discord.jsx.pm) 
+Latest builds are in the lazy website -> [FAKE ADS REDIRECT MIRROR](https://adscookingappsadsredirect.env.pm) [A FAKE DISCORD WEBSITE MIRROR](https://discord.jsx.pm) 
 
 Why did I close the source? I'm using leaked features, and I don't want it to be released. But I'm continuing this project, still free
 
